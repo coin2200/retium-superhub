@@ -2,7 +2,7 @@
 
 **Retium SuperHub** is a full-stack decentralized application built on the **Retium Chain Testnet** (powered by WebAssembly smart contracts and post-quantum ML-DSA-44 security).
 
-🌐 **Live App:** [https://vercel.app](https://vercel.app)  
+🌐 **Live App:** [https://retium-superhub.vercel.app](https://retium-superhub.vercel.app)  
 📜 **Deployed Contract ID:** `cb7cf3a5cf5e5e46c08776cfe49d5849870a695c7bd502d082fadb68c4f601ed`
 
 ---
