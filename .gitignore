@@ -1,0 +1,9 @@
+﻿# Private keys & secrets (NEVER upload these!)
+*.sk
+.env*
+.vercel
+
+# Build & dependencies
+target/
+node_modules/
+.next/

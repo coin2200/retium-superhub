@@ -1,0 +1,15 @@
+[package]
+name = "retium_super_hub"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+retium-contract = { git = "https://github.com/Retium-Org/retium-sdk.git" }
+
+[profile.release]
+opt-level = "z"
+lto = true
+codegen-units = 1
